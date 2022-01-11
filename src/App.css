@@ -17,6 +17,7 @@
   }
 
   .mobileHide {
+    max-width: 400px;
     display: none;
 
   }
