@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "title": "Hi, I'm Chance",
+    "paragraph1": "Northeastern Universtiy - MS in Computer Science",
+    "paragraph2": "Graduating in December 2022"
+  },
+  "About": {
+    "paragraph1": "My name is Chance and I am currently in my 2nd year of my Computer Science Master Program at Northeastern University. My expected graduation is December 2022. I currently hold a B.S. in Economics and a minor in History also from Northeastern. Why the big switch? I was working for a large asset manager in Boston, MA and recognized the significant impact software had in finance and other industries. I decided then and there that I wanted to be at the forefront of innovative software.",
+    "paragraph2": "I discovered Northeastern provides a bridge to Master program called Align with the belief that computer and data science is for everyone, regardless of background. I stand with that belief. The program is structured with bridge courses that prepare students of any undergraduate discipline for graduate level coursework in Computer Science. Align has changed the way I view the world and set me on a path that is for me.",
+    "paragraph3": "My life was a revolving door of sports growing up. I started playing baseball when I was four. Then in middle school, I tacked on running. Track & Field and Cross Country eventually became my new outlet and earned me a scholarship to run at the Division 1 level. I stopped running in March 2020 when the Pandemic hit and cut my collegiate season short. It was a good run, no pun intended, and I posted some strong times. The highlight of my running career was running one mile in 4:09, an 8k in under 24 minutes, and a multitude of opportunities to compete across the United States. Now, I am an avid cyclist hoping to challenge myself in a new way."
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Contact": {
+    "email": "lamberth.c@northeastern.edu",
+    "linkedin": "https://www.linkedin.com/in/chance-lamberth-274087157/",
+    "github": "https://github.com/ChanceLamberth",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
